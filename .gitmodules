@@ -1,0 +1,6 @@
+[submodule "TechAmorSaude-api"]
+	path = TechAmorSaude-api
+	url = https://github.com/IFafaa/TechAmorSaude-api.git
+[submodule "TechAmorSaude-front"]
+	path = TechAmorSaude-front
+	url = https://github.com/IFafaa/TechAmorSaude-front.git
